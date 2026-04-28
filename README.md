@@ -1,4 +1,3 @@
-# PRODIGY_DS_04
 📊 Task 04: Sentiment Analysis.
 
 🛠️ Tools Used: Pandas, Python, Seaborn, Google colab, Matplotlib.
@@ -16,3 +15,12 @@ Most datasets show a neutral-heavy distribution, with positive and negative clus
 A high negative spike often signals crises, product issues, or PR incidents.
 Model accuracy shows good prediction and accuracy.
 
+## 📷 Output
+### 📊 Sentiment Distribution
+<img width="589" height="455" alt="image" src="https://github.com/user-attachments/assets/e03e1d67-c31b-4ace-8b2e-681043ba649e" />
+
+### 📊 Confusion Matrix
+<img width="518" height="393" alt="image" src="https://github.com/user-attachments/assets/495b47e6-dfc0-419f-a7fc-4055cfa92a65" />
+
+### 📈 Accuracy Output
+<img width="655" height="375" alt="image" src="https://github.com/user-attachments/assets/238e37ae-98ed-40aa-baab-58e73ad1a27f" />
